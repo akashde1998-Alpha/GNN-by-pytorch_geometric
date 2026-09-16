@@ -1,1 +1,1 @@
-# GCN-by-pytorch-
+# GNN-by-pytorch_geometric
